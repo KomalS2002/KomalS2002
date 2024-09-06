@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <h4>Dedicated and passionate web developer. Eager to learn and work on different tech stacks.An enthusiastic Programmer. Good at graphic designing as a my hobby.Special interest in robotics engineering and artificial intelligence..</h4>
+    <h4>I am someone who is very eager to learn about new technologies, diverse tech-stacks and algorithms. When I am not busy hacking away at some project you could generally find me reading some new book, playing mortal kombat or trying my hand at competitive programming (very rarely though)</h4>
 </div>
 
 <div align="center">
