@@ -1,7 +1,7 @@
 <img width="100%" alt="developer" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 <div align="center">
     <h1>
-       <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Komal+Singh;A+passionate+developer+and+an+aspiring+engineer" alt="Typing SVG" /></a></p>
+       <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Komal+Singh;A+passionate+developer;and+an+aspiring+engineer" alt="Typing SVG" /></a></p>
     </h1>
 </div>
 
